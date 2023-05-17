@@ -16,12 +16,11 @@ Tech Skills: JavaScript, Node.js, Express, MongoDB, React, Ruby, HTML, CSS, Post
   - **Critical thinking** - I love finding solutions to tricky problems. Starting with an ambiguous task that has no fixed solution is when I thrive the most.
 
 ## Projects
-|Project Name | Description | Tech | Link |
+|Project| Description | Tech | Link |
 | :------: | :----: | :---: | :---:|
-| Yahtzee |  |     |
-|<img src="yahtzee.png" width="100">| A cyberpunk re-imagining of the classic dice <br> game, complete with local multiplayer, <br> leaderboard, and an AI player to compete with! | React, JavaScript <br> Express, MongoDB, <br> Node.js, Jest, <br> Cypress, CakeWalk <br> Helm, Synth1| https://github.com/J-Neuwford/yahtzee | 
-| Acebook|
-|<img src="acebook.png" width="90"> | A Facebook clone made in two weeks to learn <br> how to MERN. Includes token based authentication, <br> profiles, posts, comments and likes. | React, JavaScript, <br> Express, Node.js, <br> MongoDB, Jest <br> Cypress| https://github.com/Destinek/acebook-earth |
+|**Yahtzee** <br> <img src="yahtzee.png" width="100">| A cyberpunk re-imagining of the classic dice <br> game, complete with local multiplayer, <br> leaderboard, and an AI player to compete with! | React, JavaScript <br> Express, MongoDB, <br> Node.js, Jest, <br> Cypress, CakeWalk <br> Helm, Synth1| https://github.com/J-Neuwford/yahtzee | 
+|**Acebook** <br> <img src="acebook.png" width="90"> | A Facebook clone made in two weeks to learn <br> how to MERN. Includes token based authentication, <br> profiles, posts, comments and likes. | React, JavaScript, <br> Express, Node.js, <br> MongoDB, Jest <br> Cypress| https://github.com/Destinek/acebook-earth |
+|**Retro Arcade** <br> <img src="wip.jpg" width="100">| My latest WIP, a collection of retro arcade classics <br> including Pong, Tetris and Pacman.| Unity, C#|https://github.com/J-Neuwford/RetroArcade |
 ## Education
 
 ## Experience
